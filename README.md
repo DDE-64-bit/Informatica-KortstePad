@@ -37,7 +37,7 @@ We gebruiken Dijkstra's algoritme om de kortste route van Amsterdam naar Assen t
    - Markeer de gekozen knoop als bezocht (verwijder uit de niet-bezochte verzameling).
 
 3. Eindresultaat:
-   - De kortste afstand naar Assen is gevonden wanneer Assen is bezocht en zijn afstand niet meer wordt geüpdatet.
+   - De kortste afstand naar Assen is gevonden wanneer Assen is bezocht en zijn afstand niet meer wordt geüpdatet. 
 
 ## Conclusie
 Na het uitvoeren van Dijkstra's algoritme vinden we de kortste route van Amsterdam naar Assen. De kortste route is via Almere, Emmeloord en Oosterwolde, met een totale afstand van 160 km.
